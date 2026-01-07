@@ -26,4 +26,4 @@ I believe great products are built by deeply understanding users, validating imp
 ---
 
 ### 📫 Let’s Connect
-- LinkedIn: (add your LinkedIn link)
+- LinkedIn: (https://www.linkedin.com/in/preeti-gahlot-82618b47/)
