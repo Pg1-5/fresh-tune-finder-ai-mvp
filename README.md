@@ -13,8 +13,12 @@ I build AI-enabled MVPs and product case studies focused on solving real user pr
 ---
 
 ### 🚀 Featured Project
-🎧 **Fresh Tune Finder — AI-Powered Music Discovery MVP**  
-An AI-enabled “Surprise Me” discovery experience built as a Spotify case study.
+
+🎧 Fresh Tune Finder — AI-Powered Music Discovery (Spotify Concept MVP)  
+An AI-enabled “Surprise Me” discovery experience built as a product case study inspired by Spotify.
+
+⚠️ This is a concept MVP created for learning and exploration purposes. Not an official Spotify feature.
+
 
 🔗 Live Prototype: https://fresh-tune-finder.lovable.app/
 
